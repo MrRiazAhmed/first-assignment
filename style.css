@@ -1,0 +1,109 @@
+body{
+    font-family: 'Merriweather Sans', sans-serif;;
+    margin: 0%;
+}
+.co{
+    color: orange;
+}
+.first-sec{
+    display: flex;
+    margin-bottom: 110px;
+}
+.first h1{
+    font-size:50px ;
+    margin-top: 80px;
+    color: rgb(80, 74, 74);
+}
+.first{
+    width: 80%;
+    padding-left: 8%;
+}
+
+h1{
+    font-size: 65px;
+}    
+    
+#std{
+    margin-top: 50px;
+}
+
+
+.first img{
+    width: 100%;
+    
+}
+
+.first p{
+    color: rgb(92, 92, 92);
+    padding-left: 25px;
+}
+.click{
+    text-decoration: none;
+    background: linear-gradient(rgb(247, 160, 90), rgb(245, 99, 73));  
+    padding: 15px 30px;
+    border-radius: 30px;
+    color: whitesmoke;
+ box-shadow: 2px 2px 5px rgb(236, 131, 61) ;
+ }
+.second-sec{
+    display: flex;
+   background-image: url(pic3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 40px;       
+}
+
+.second{
+    width: 50%;
+    padding-right: 20px;
+    margin: 0px 30px;
+    margin-top: 100px;
+    
+}
+.second img{
+    width: 90%;
+    margin-top: 0%;
+    margin-left: 10px;
+    margin-bottom: 80px;
+
+}
+.second p{
+    margin-right: 150px;
+}
+.third
+{
+text-align: center;
+padding: 2% 25%;
+color: rgb(63, 60, 60);
+}
+.fourth{
+    display: flex
+}
+
+.fifth{
+    width: 50%;
+    margin: 40px 40px;
+    margin-bottom: 30px;
+    padding: 20px;
+    text-align: left;
+    border-radius: 15px;
+   box-shadow: 3px 3px 3px black;
+   
+}
+
+.fifth img{
+width: 100%;
+}
+
+.last{
+    margin-top: 50px;
+   background-color: black;
+ color: cornsilk;
+ text-align: center;
+
+
+}
+#col{
+    color: rgba(184, 179, 179, 0.822);
+    
+}

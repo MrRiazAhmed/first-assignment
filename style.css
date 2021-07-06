@@ -39,7 +39,7 @@ h1{
 }
 .click{
     text-decoration: none;
-    background: linear-gradient(rgb(247, 160, 90), rgb(245, 99, 73));  
+    background: linear-gradient(orange, red);  
     padding: 15px 30px;
     border-radius: 30px;
     color: whitesmoke;
@@ -62,10 +62,8 @@ h1{
 }
 .second img{
     width: 90%;
-    margin-top: 0%;
     margin-left: 10px;
     margin-bottom: 80px;
-
 }
 .second p{
     margin-right: 150px;
